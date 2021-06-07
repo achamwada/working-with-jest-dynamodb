@@ -1,0 +1,16 @@
+{
+  "name": "sample-jest",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "@shelf/jest-dynamodb": "^1.8.1",
+    "jest": "^27.0.4"
+  },
+  "dependencies": {
+    "aws-sdk": "^2.922.0"
+  }
+}
